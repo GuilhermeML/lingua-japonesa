@@ -1,18 +1,57 @@
 
 # SUMÁRIO
 
+- [Módulo 10 - Que tal irmos ao cinema?](#módulo-10---que-tal-irmos-ao-cinema)
+  - [[10-1] Kanji do Módulo](#10-1-kanji-do-módulo)
+<br>
+
 - [Módulo 11 - A viagem foi ótima](#módulo-11---a-viagem-foi-ótima)
   - [\[11-9\] Terminações Comuns](#11-9-terminações-comuns)
   - [\[11-10\] Aula Desafio Módulo 11](#11-10-aula-desafio-módulo-11)
   - [\[11-11\] Exercícios JLPT N5 M11](#11-11-exercícios-jlpt-n5-m11)
 
-</br>
+<br>
 
 - [Módulo 12 - Gastando o rico dinheirinho](#módulo-12---gastando-o-rico-dinheirinho)
   - [\[12-1\] Vocabulário do Diálogo 1 + Apostila do Módulo](#12-1-vocabulário-do-diálogo-1--apostila-do-módulo)
   - [[12-2] Diálogo 1: Tudo bem ser cartão? (カードでいいですか。)](#12-2-diálogo-1-tudo-bem-ser-cartão-カードでいいですか)
 
-</br></br>
+<br><br>
+
+# Módulo 10 - Que tal irmos ao cinema?
+
+## [10-1] Kanji do Módulo
+
+> **Kanji**
+
+  | Original | Kun'yomi | On'yomi | Furigana | Tradução|
+  | :------: | :------: | :-----: | :------: | :-----: |
+  | 昨 |  | サク | - | Ontem, anterior |
+  | 曜 |  | ヨウ | - | Dia da semana  |
+  | 年 | とし | ネン | - | Ano |
+  |  |  |  |  |  |
+  | 生年月日 |  |  | せいねんがっぴ | Data de Nascimento |
+  | 昨年 |  |  | さくねん | Ano passado |
+  | 昨日 |  |  | きのう | Ontem |
+  |  |  |  |  |  |
+  | 月 | つき | ゲツ、ガツ | - | Mês, lua |
+  | 月光 |  |  | げっこう | Luar |
+  |  |  |  |  |  |
+  | 火 | ひ、び | カ | - | Fogo |
+  | 水 | みず | スイ | - | Água |
+  | 火事 |  |  | かじ | Incendio |
+  | 火山 |  |  | かざん | Vulcao |
+  |  |  |  |  |  |
+  | 水泳 |  |  | すいえい | Natação |
+  |  |  |  |  |  |
+  | 木 | き、こ | ボク、モク | - | Árvore, madeira |
+  |  |  |  |  |  |
+  | 金 | かね、がね | キン、コ、ン、ゴン | - | Ouro |
+  | 金魚 |  |  | きんぎょ | Peixe Dourado |
+  |  |  |  |  |  |
+  | 土 | つち | ド、 ト | - | Terra |
+<br>
+
 
 # Módulo 11 - A viagem foi ótima
 </br>
@@ -178,8 +217,7 @@
 </details>
 
 ## [11-10] Aula Desafio Módulo 11
-
-@TODO
+<br>
 
 > **Diálogo Desafio**
 
@@ -208,7 +246,6 @@
 
 # Módulo 12 - Gastando o rico dinheirinho
 </br>
-
 
 ## [12-1] Vocabulário do Diálogo 1 + Apostila do Módulo
 
@@ -239,7 +276,7 @@
 
 ***
 
-### [12-2] Diálogo 1: Tudo bem ser cartão? (カードでいいですか。)
+## [12-2] Diálogo 1: Tudo bem ser cartão? (カードでいいですか。)
 
 > **Diálogo**
 
@@ -276,6 +313,3 @@
 店員: 　はい。ありがとうございます。 
 
 ```
-
-***
-
